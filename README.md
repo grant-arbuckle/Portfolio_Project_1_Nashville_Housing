@@ -3,7 +3,7 @@
 #### I set up a MySQL Server on my personal computer, and since there is a known error with uploading CSVs with certain collation types to the MySQL server on Macbook, I used Numbers on my Macbook to convert the csv to a format I was able to import into the server successfully. All sql database functions performed in the "data cleaning file" were performed using the MySQL extension in VS Code.
 ### Questions I sought to answer with my analysis:
 #### 1. Which month had the highest home sales value?
-#### 2. Which month are most homes sold in?
+#### 2. Which month of the year are most homes typically sold in?
 #### 3. What was the distribution of number of bedrooms per home? Number of full baths? Number of half baths?
 #### 4. What percentage of homes sold had 3 bedrooms? 4 bedrooms?
 #### 5. What year were most of the homes sold built in?
