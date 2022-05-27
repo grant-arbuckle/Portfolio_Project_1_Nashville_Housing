@@ -1,5 +1,5 @@
 # Portfolio Project 1: Nashville Housing
-### This is my first self-directed portfolio project, where I took a raw dataset containing Nashville housing data found online and conducted an anlysis on it with MySQL, Python and Tableau.
+### This is my first self-directed portfolio project, where I took a raw dataset containing Nashville housing data found online and conducted an analysis on it with SQL, a bit of Python and Tableau!
 #### Questions I sought to answer with my analysis:
 #### 1. Which month had the highest average home sale value?
 #### 2. Which month of the year are most homes typically sold in?
