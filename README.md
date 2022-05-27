@@ -6,7 +6,7 @@
 #### 3. What percentage of homes sold had 3 bedrooms? 4 bedrooms?
 #### 4. What year were most of the homes sold built in?
 #### 5. Is there a relationship between the land use type and sale price?
-#### 6. What's the average sale price by year?
+#### 6. What's the average sale price by year built?
 #### I set up a MySQL Server on my personal computer, and since there is a known error with uploading CSVs with certain collation types to the MySQL server on Macbook, I used Numbers on my Macbook to convert the csv to a format I was able to import into the server successfully. All sql database functions performed in the "data cleaning and queries" were performed using the MySQL extension in VS Code.
 #### I attempted to pull in zip code and latitude/longitude information using geocoder modules in Python to visualize home sales on a map, but opted not to as doing so for the ~26,000 row dataset would take over 3.5 hours. In the future I will select/scrape data that contains this information ahead of time.
 #### Since Tableau Public doesn't allow direct connections to servers, I exported each of my queries as CSVs. I then used that data to build and deploy a Tableau dashboard to visualize the data and answer the above questions.
