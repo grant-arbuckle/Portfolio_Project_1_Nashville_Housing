@@ -4,7 +4,6 @@
 ### Questions I sought to answer with my analysis:
 #### 1. Which month had the highest average home sale value?
 #### 2. Which month of the year are most homes typically sold in?
-#### 3. What was the distribution of number of bedrooms per home? Number of full baths? Number of half baths?
-#### 4. What percentage of homes sold had 3 bedrooms? 4 bedrooms?
-#### 5. What year were most of the homes sold built in?
-#### 6. Is there a relationship between the year built and sale price? Between land use type and sale price? Between total value and sale price?
+#### 3. What percentage of homes sold had 3 bedrooms? 4 bedrooms?
+#### 4. What year were most of the homes sold built in?
+#### 5. Is there a relationship between the year built and sale price? Between land use type and sale price?
